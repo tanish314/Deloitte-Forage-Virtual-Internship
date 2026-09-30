@@ -32,8 +32,8 @@ Each factory had **9 types of machines**, generating telemetry messages every **
 5. **Identified the factory with the highest downtime** and captured a screenshot for submission.
 
 ### **Tableau Dashboard**  
-Here is the interactive Tableau dashboard I created for Task 1:  
-
+Here is the interactive Tableau dashboard I created for Task 1:
+![Alt Text](https://github.com/tanish314/Deloitte-Forage-Virtual-Internship/blob/main/Task%20One/Dashboard.png)
 
 ## Task 2: Gender Pay Equality Classification in Excel
 
